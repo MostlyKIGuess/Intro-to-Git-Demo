@@ -63,7 +63,7 @@ const people = [
     image: "/images/aryan.jpeg",
   },
   {
-    id: 10
+    id: 10,
     name: "Manan",
     designation: "Jobless",
     image:"/images/Me.png",
