@@ -63,6 +63,12 @@ const people = [
     image: "/images/aryan.jpeg",
   },
   {
+    id: 28,
+    name: "Vansh",
+    designation: "Error!!",
+    image: "/images/Vansh.png",
+  },
+  {
     id: 2024204013,
     name: "Deepesh",
     designation: "Git Learner",
