@@ -124,8 +124,15 @@ const people = [
   image: "/images/jopal.png",
 },
 
+  {
+    id: 420,
+    name: "AstroDuck",
+    designation: "Alive person",
+    image: "/images/images.jpeg",
+  },
 
-   //   {
+
+//   {
 //     id: <next-id>,
 //     name: "<Your Name Goes Here>",
 //     designation: "<What do you want to be designated goes here>",
