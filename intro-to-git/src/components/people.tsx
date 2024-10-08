@@ -72,7 +72,7 @@ const people = [
     id: 78,
     name: "TOPG",
     designation: "Judge",
-    image:"/images/Prathish photo-min.jpg"
+    image:"/images/Prathish.jpg"
   },
     //   {
 //     id: <next-id>,
