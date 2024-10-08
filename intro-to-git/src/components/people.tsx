@@ -68,6 +68,42 @@ const people = [
     designation: "Official Dombu",
     image: "/images/dombu1725.jpeg",
   },
+  {
+    id: 9999,
+    name: "Nikhil",
+    designation: "ECE guy ",
+    image: "/images/nikhil.png",
+  },
+  {
+    id: 28,
+    name: "Vansh",
+    designation: "Error!!",
+    image: "/images/Vansh.png",
+  },
+  {
+    id: 2024204013,
+    name: "Deepesh",
+    designation: "Git Learner",
+    image: "/images/Deepesh.jpeg",
+  },
+  {
+    id: 10,
+    name: "Harry",
+    designation: "Hold Up ",
+    image: "/images/Harry.jpg",
+  },
+  {
+    id: 11,
+    name: "Manan",
+    designation: "Jobless",
+    image:"/images/Me.png",
+  },
+  {
+    id: 100,
+    name: "Hemanth",
+    designation: "The one who is always hungry",
+    image: "/images/IMG_5034.png",
+  },
     //   {
 //     id: <next-id>,
 //     name: "<Your Name Goes Here>",
