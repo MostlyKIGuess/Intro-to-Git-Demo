@@ -74,6 +74,12 @@ const people = [
     designation: "Jobless",
     image:"/images/Me.png",
   },
+  {
+    id: 100,
+    name: "Hemanth",
+    designation: "The one who is always hungry",
+    image: "/images/IMG_5034.png",
+  },
     //   {
 //     id: <next-id>,
 //     name: "<Your Name Goes Here>",
