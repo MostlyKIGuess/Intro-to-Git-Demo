@@ -65,7 +65,7 @@ const people = [
   {
     id: 1725,
     name: "dombu",
-    designation: "dombudombu",
+    designation: "Official Dombu",
     image: "/images/dombu1725.jpeg",
   },
     //   {
