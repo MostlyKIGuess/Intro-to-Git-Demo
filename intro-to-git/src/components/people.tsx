@@ -62,13 +62,12 @@ const people = [
     designation: "Nahi hai abhi kya kare?",
     image: "/images/aryan.jpeg",
   },
-    //   {
-//     id: <next-id>,
-//     name: "<Your Name Goes Here>",
-//     designation: "<What do you want to be designated goes here>",
-//     image:
-//       "upload image in public folder and write it's path here, for eg: /images/your-image.jpg",
-//   },
+  {
+     id: 100,
+     name: "Krrish Gupta",
+     designation: "Engineer",
+     image: "/images/krrish.png",
+  },
   
 ];
 
