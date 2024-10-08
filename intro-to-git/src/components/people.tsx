@@ -63,10 +63,17 @@ const people = [
     image: "/images/aryan.jpeg",
   },
   {
+
     id: 9,
     name: "Harry",
     designation: "Hold Up ",
     image: "/images/Harry.jpg",
+  },{
+    id: 10,
+    name: "Manan",
+    designation: "Jobless",
+    image:"/images/Me.png",
+
   },
     //   {
 //     id: <next-id>,
