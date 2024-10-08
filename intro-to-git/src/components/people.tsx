@@ -169,6 +169,13 @@ const people = [
     designation: "Midsems ne le li :(",
     image: "/images/neemon.png",
   },
+  {
+    id: 2308,
+    name: "Aravind",
+    designation: "Learner",
+    image: "/images/AravindGondi_Photo.jpeg",
+  },
+
 
     //   {
 //     id: <next-id>,
