@@ -70,7 +70,7 @@ const people = [
   },
   {
     id: 78,
-    name: "Prathish",
+    name: "TOPG",
     designation: "Judge",
     image:"/images/Prathish photo-min.jpg"
   },
