@@ -68,6 +68,7 @@ const people = [
     designation: "Hold Up ",
     image: "/images/Harry.jpg",
   },
+<<<<<<< HEAD
   {
     id: 11,
     name: "Manan",
@@ -81,13 +82,19 @@ const people = [
     image: "/images/IMG_5034.png",
   },
     //   {
+=======
+   //   {
+>>>>>>> 00ae6bf (Add Janak to contribut)
 //     id: <next-id>,
 //     name: "<Your Name Goes Here>",
 //     designation: "<What do you want to be designated goes here>",
 //     image:
 //       "upload image in public folder and write it's path here, for eg: /images/your-image.jpg",
 //   },
+<<<<<<< HEAD
   
+=======
+>>>>>>> 00ae6bf (Add Janak to contribut)
 ];
 
 export function People() {
