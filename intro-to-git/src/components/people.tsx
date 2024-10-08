@@ -63,10 +63,22 @@ const people = [
     image: "/images/aryan.jpeg",
   },
   {
-    id: 70,
-    name: "Manik",
-    designation: "Nahi hai abhi kya kare?",
-    image: "/images/Manik.jpg",
+    id: 10,
+    name: "Harry",
+    designation: "Hold Up ",
+    image: "/images/Harry.jpg",
+  },
+  {
+    id: 11,
+    name: "Manan",
+    designation: "Jobless",
+    image:"/images/Me.png",
+  },
+  {
+    id: 100,
+    name: "Hemanth",
+    designation: "The one who is always hungry",
+    image: "/images/IMG_5034.png",
   },
     //   {
 //     id: <next-id>,
