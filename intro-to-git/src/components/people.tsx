@@ -63,6 +63,12 @@ const people = [
     image: "/images/aryan.jpeg",
   },
   {
+    id: 1725,
+    name: "dombu",
+    designation: "Official Dombu",
+    image: "/images/dombu1725.jpeg",
+  },
+  {
     id: 9999,
     name: "Nikhil",
     designation: "ECE guy ",
