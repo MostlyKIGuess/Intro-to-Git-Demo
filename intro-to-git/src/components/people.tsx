@@ -188,6 +188,13 @@ const people = [
     designation: "Chaos Enjoyer",
     image: "/images/Meet.jpeg",
   },
+  {
+     id: 56,
+     name: "Shreyas",
+     designation: "commits the changes",
+     image:
+       "/images/Shreyas.png",
+   },
 
     //   {
 //     id: <next-id>,
