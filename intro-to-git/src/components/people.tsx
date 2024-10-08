@@ -2,7 +2,6 @@
 import React from "react";
 import { AnimatedTooltip } from "./ui/animated-tooltip";
 const people = [
-
   {
         id: 1,
         name: "OSDG Best xD",
@@ -195,6 +194,13 @@ const people = [
      image:
        "/images/Shreyas.png",
    },
+	{
+		id: 571,
+		name: "Dev",
+		designation: "weekend bakchodi host",
+		image: "/images/dev.jpeg",
+	},
+
 
     //   {
 //     id: <next-id>,
@@ -209,9 +215,9 @@ const people = [
 ];
 
 export function People() {
-  return (
-    <div className="flex flex-row items-center justify-center mb-10 w-full mt-12">
-      <AnimatedTooltip items={people} />
-    </div>
-  );
+	return (
+		<div className="flex flex-row items-center justify-center mb-10 w-full mt-12">
+			<AnimatedTooltip items={people} />
+		</div>
+	);
 }
