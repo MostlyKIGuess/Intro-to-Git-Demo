@@ -175,6 +175,8 @@ const people = [
     designation: "Learner",
     image: "/images/AravindGondi_Photo.jpeg",
   },
+
+
     //   {
 //     id: <next-id>,
 //     name: "<Your Name Goes Here>",
@@ -183,6 +185,8 @@ const people = [
 //       "upload image in public folder and write it's path here, for eg: /images/your-image.jpg",
 //   },
   
+
+
 ];
 
 export function People() {
