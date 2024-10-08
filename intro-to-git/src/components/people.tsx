@@ -131,6 +131,13 @@ const people = [
     image: "/images/images.jpeg",
   },
 
+  {
+    id: 906,
+    name: "Shivek",
+    designation: "Nahi hai abhi kya kare?",
+    image: "/images/Shivek.png",
+  },
+
 
 //   {
 //     id: <next-id>,
