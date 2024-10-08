@@ -53,7 +53,7 @@ const people = [
   {
     id: 8,
     name: "Gopal",
-    designation: "ECE undergrad possesed by ghosts of burnt IC's ",
+    designation: "ECE undergrad possesed by gh~~osts of burnt IC's ",
     image: "/images/goapal.jpg",
   },
   {
@@ -70,6 +70,12 @@ const people = [
 //       "upload image in public folder and write it's path here, for eg: /images/your-image.jpg",
 //   },
   
+{
+  id: 6801,
+  name: "rimo",
+  designation: "hamba hamba romba romba",
+  image: "/images/cjminati.jpg",
+},
 ];
 
 export function People() {
