@@ -2,7 +2,7 @@
 import React from "react";
 import { AnimatedTooltip } from "./ui/animated-tooltip";
 const people = [
-     {
+  {
         id: 1,
         name: "OSDG Best xD",
         designation: "Club God",
@@ -143,6 +143,20 @@ const people = [
      designation: "Engineer",
      image: "/images/krrish.png",
   },
+  {
+    id: 369,
+    name: "Ravi",
+    designation: "tum kya dekh rahe ho",
+    image: "/images/jetu.jpg",
+  },
+    //   {
+//     id: <next-id>,
+//     name: "<Your Name Goes Here>",
+//     designation: "<What do you want to be designated goes here>",
+//     image:
+//       "upload image in public folder and write it's path here, for eg: /images/your-image.jpg",
+//   },
+  
 
 
 ];
