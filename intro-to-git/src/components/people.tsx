@@ -2,7 +2,7 @@
 import React from "react";
 import { AnimatedTooltip } from "./ui/animated-tooltip";
 const people = [
-    {
+     {
         id: 1,
         name: "OSDG Best xD",
         designation: "Club God",
@@ -53,7 +53,7 @@ const people = [
   {
     id: 8,
     name: "Gopal",
-    designation: "ECE undergrad possesed by gh~~osts of burnt IC's ",
+    designation: "ECE undergrad possesed by ghosts of burnt IC's ",
     image: "/images/goapal.jpg",
   },
   {
@@ -61,6 +61,36 @@ const people = [
     name: "Aryan",
     designation: "Nahi hai abhi kya kare?",
     image: "/images/aryan.jpeg",
+  },
+  {
+    id: 37,
+    name: "Arpit",
+    designation: "khud gaye guru",
+    image: "/images/arpit.png",
+  },
+  {
+    id: 1725,
+    name: "dombu",
+    designation: "Official Dombu",
+    image: "/images/dombu1725.jpeg",
+  },
+  {
+    id: 9999,
+    name: "Nikhil",
+    designation: "ECE guy ",
+    image: "/images/nikhil.png",
+  },
+  {
+    id: 28,
+    name: "Vansh",
+    designation: "Error!!",
+    image: "/images/Vansh.png",
+  },
+  {
+    id: 2024204013,
+    name: "Deepesh",
+    designation: "Git Learner",
+    image: "/images/Deepesh.jpeg",
   },
   {
     id: 10,
@@ -80,20 +110,28 @@ const people = [
     designation: "The one who is always hungry",
     image: "/images/IMG_5034.png",
   },
-    //   {
-//     id: <next-id>,
-//     name: "<Your Name Goes Here>",
-//     designation: "<What do you want to be designated goes here>",
-//     image:
-//       "upload image in public folder and write it's path here, for eg: /images/your-image.jpg",
-//   },
-  
+     {
+    id: 234464,
+    name: "Janak",
+    designation: "student",
+    image:
+      "/images/janak.jpg",
+  },
 {
   id: 6801,
   name: "rimo",
   designation: "fiat earther",
   image: "/images/jopal.png",
 },
+
+      //   {
+//     id: <next-id>,
+//     name: "<Your Name Goes Here>",
+//     designation: "<What do you want to be designated goes here>",
+//     image:
+//       "upload image in public folder and write it's path here, for eg: /images/your-image.jpg",
+//   },
+    
 ];
 
 export function People() {
