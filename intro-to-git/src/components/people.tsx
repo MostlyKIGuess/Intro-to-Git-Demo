@@ -69,7 +69,13 @@ const people = [
 //     image:
 //       "upload image in public folder and write it's path here, for eg: /images/your-image.jpg",
 //   },
-
+  
+{
+  id: 6801,
+  name: "rimo",
+  designation: "fiat earther",
+  image: "/images/jopal.png",
+},
 ];
 
 export function People() {
