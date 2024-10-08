@@ -156,6 +156,13 @@ const people = [
     image: "/images/nav.jpeg",
   },
 
+  {
+    id: 32,
+    name: "Keshav",
+    designation: "HydraWarrior",
+    image: "/images/Keshav.jpeg",
+  },
+
     //   {
 //     id: <next-id>,
 //     name: "<Your Name Goes Here>",
