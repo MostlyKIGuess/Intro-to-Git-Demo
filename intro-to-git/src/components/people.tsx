@@ -62,6 +62,18 @@ const people = [
     designation: "Nahi hai abhi kya kare?",
     image: "/images/aryan.jpeg",
   },
+  {
+    id: 2701,
+    name: "Luffy",
+    designation: "Sun God Nika",
+    image: "/images/Luffy.jpg",
+  },
+  {
+    id: 1905,
+    name: "Meet",
+    designation: "Chaos Enjoyer",
+    image: "/images/Meet.jpeg",
+  },
     //   {
 //     id: <next-id>,
 //     name: "<Your Name Goes Here>",
