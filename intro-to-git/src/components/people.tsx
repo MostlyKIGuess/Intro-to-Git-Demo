@@ -55,6 +55,12 @@ const people = [
     designation: "ECE undergrad possesed by ghosts of burnt IC's ",
     image: "/images/osdg-best.webp",
   },
+  {
+    id: 8,
+    name: "Yajat",
+    designation: "Idk anything at this point lmao",
+    image: "/images/osdg-best.webp",
+  },
     //   {
 //     id: <next-id>,
 //     name: "<Your Name Goes Here>",
