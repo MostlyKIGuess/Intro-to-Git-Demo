@@ -63,6 +63,100 @@ const people = [
     image: "/images/aryan.jpeg",
   },
   {
+    id: 37,
+    name: "Arpit",
+    designation: "khud gaye guru",
+    image: "/images/arpit.png",
+  },
+  {
+    id: 1725,
+    name: "dombu",
+    designation: "Official Dombu",
+    image: "/images/dombu1725.jpeg",
+  },
+  {
+    id: 9999,
+    name: "Nikhil",
+    designation: "ECE guy ",
+    image: "/images/nikhil.png",
+  },
+  {
+    id: 28,
+    name: "Vansh",
+    designation: "Error!!",
+    image: "/images/Vansh.png",
+  },
+  {
+    id: 2024204013,
+    name: "Deepesh",
+    designation: "Git Learner",
+    image: "/images/Deepesh.jpeg",
+  },
+  {
+    id: 10,
+    name: "Harry",
+    designation: "Hold Up ",
+    image: "/images/Harry.jpg",
+  },
+  {
+    id: 11,
+    name: "Manan",
+    designation: "Jobless",
+    image:"/images/Me.png",
+  },
+  {
+    id: 100,
+    name: "Hemanth",
+    designation: "The one who is always hungry",
+    image: "/images/IMG_5034.png",
+  },
+     {
+    id: 234464,
+    name: "Janak",
+    designation: "student",
+    image:
+      "/images/janak.jpg",
+  },
+{
+  id: 6801,
+  name: "rimo",
+  designation: "fiat earther",
+  image: "/images/jopal.png",
+},
+
+  {
+    id: 420,
+    name: "AstroDuck",
+    designation: "Alive person",
+    image: "/images/images.jpeg",
+  },
+
+  {
+    id: 906,
+    name: "Shivek",
+    designation: "Nahi hai abhi kya kare?",
+    image: "/images/Shivek.png",
+  },
+  {
+     id: 100,
+     name: "Krrish Gupta",
+     designation: "Engineer",
+     image: "/images/krrish.png",
+  },
+  {
+    id: 369,
+    name: "Ravi",
+    designation: "tum kya dekh rahe ho",
+    image: "/images/jetu.jpg",
+  },
+{
+    id: 23974834,
+    name: "nav",
+    designation: "idk why im here i just get paid",
+    image: "/images/nav.jpeg",
+  },
+
+  {
     id: 32,
     name: "Keshav",
     designation: "HydraWarrior",
