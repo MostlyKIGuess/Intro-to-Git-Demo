@@ -66,7 +66,7 @@ const people = [
     id: 420,
     name: "AstroDuck",
     designation: "Alive person",
-    image: "/images/england-salute(1).jpeg",
+    image: "/images/images.jpeg",
   },
     //   {
 //     id: <next-id>,
