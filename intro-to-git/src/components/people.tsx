@@ -11,7 +11,7 @@ const people = [
   {
     id: 2,
     name: "Krish Pandya",
-    designation: "Pandya",
+    designation: "Transistor Count 2.79",
     image: "/images/Krish_OP.jpeg"
   },
   {
