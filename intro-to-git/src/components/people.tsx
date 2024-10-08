@@ -66,7 +66,7 @@ const people = [
     id: 10,
     name: "Hemanth",
     designation: "The one who is always hungry",
-    image: "/images/Hemanth.jpg",
+    image: "/images/IMG_5034.png",
   },
     //   {
 //     id: <next-id>,
