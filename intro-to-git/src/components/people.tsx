@@ -2,6 +2,7 @@
 import React from "react";
 import { AnimatedTooltip } from "./ui/animated-tooltip";
 const people = [
+
   {
         id: 1,
         name: "OSDG Best xD",
@@ -161,6 +162,12 @@ const people = [
     name: "Keshav",
     designation: "HydraWarrior",
     image: "/images/Keshav.jpeg",
+  },
+  {
+    id: 4013,
+    name: "Neemon",
+    designation: "Midsems ne le li :(",
+    image: "/images/neemon.png",
   },
 
     //   {
