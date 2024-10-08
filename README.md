@@ -1,3 +1,5 @@
+# I love OSDG Fr :)
+
 # Git and GitHub Workflow Tutorial
 
 This repository provides a step-by-step walkthrough of basic workflow using Git and GitHub. Follow these steps to learn the fundamentals of collaborative coding and version control.
