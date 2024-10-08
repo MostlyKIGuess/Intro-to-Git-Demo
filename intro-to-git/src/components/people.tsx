@@ -68,33 +68,20 @@ const people = [
     designation: "Hold Up ",
     image: "/images/Harry.jpg",
   },
-<<<<<<< HEAD
-  {
-    id: 11,
-    name: "Manan",
-    designation: "Jobless",
-    image:"/images/Me.png",
+     {
+    id: 234464,
+    name: "Janak",
+    designation: "student",
+    image:
+      "/images/janak.jpg",
   },
-  {
-    id: 100,
-    name: "Hemanth",
-    designation: "The one who is always hungry",
-    image: "/images/IMG_5034.png",
-  },
-    //   {
-=======
    //   {
->>>>>>> 00ae6bf (Add Janak to contribut)
 //     id: <next-id>,
 //     name: "<Your Name Goes Here>",
 //     designation: "<What do you want to be designated goes here>",
 //     image:
 //       "upload image in public folder and write it's path here, for eg: /images/your-image.jpg",
 //   },
-<<<<<<< HEAD
-  
-=======
->>>>>>> 00ae6bf (Add Janak to contribut)
 ];
 
 export function People() {
