@@ -69,6 +69,12 @@ const people = [
     image: "/images/Yajat.jpeg",
    },
   {
+    id: 37,
+    name: "Arpit",
+    designation: "khud gaye guru",
+    image: "/images/arpit.png",
+  },
+  {
     id: 1725,
     name: "dombu",
     designation: "Official Dombu",
