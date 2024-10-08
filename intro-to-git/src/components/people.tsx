@@ -66,7 +66,7 @@ const people = [
     id: 906,
     name: "Aryan",
     designation: "Nahi hai abhi kya kare?",
-    image: "/images/DW.png",
+    image: "/images/Shivek.png",
   },
     //   {
 //     id: <next-id>,
