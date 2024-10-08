@@ -68,6 +68,12 @@ const people = [
     designation: "Jobless",
     image:"/images/Me.png",
   },
+  {
+    id: 78,
+    name: "Prathish",
+    designation: "Judge",
+    image:"/images/Prathish photo-min.jpg"
+  },
     //   {
 //     id: <next-id>,
 //     name: "<Your Name Goes Here>",
