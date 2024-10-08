@@ -73,8 +73,8 @@ const people = [
 {
   id: 6801,
   name: "rimo",
-  designation: "hamba hamba romba romba",
-  image: "/images/cjminati.jpg",
+  designation: "fiat earther",
+  image: "/images/jopal.png",
 },
 ];
 
