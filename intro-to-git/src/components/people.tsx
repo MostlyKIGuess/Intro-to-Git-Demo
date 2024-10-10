@@ -46,7 +46,7 @@ const people = [
     image: "/images/Vansh.png",
   },
   {
-    id: 2024204013,
+    id: 202222013,
     name: "Deepesh",
     designation: "Git Learner",
     image: "/images/Deepesh.jpeg",
@@ -62,6 +62,13 @@ const people = [
     name: "Manan",
     designation: "Jobless",
     image:"/images/Me.png",
+  },
+  {
+
+    id: 78,
+    name: "TOPG",
+    designation: "Judge",
+    image:"/images/Prathish.jpg"
   },
   {
     id: 100,
@@ -97,7 +104,7 @@ const people = [
     image: "/images/Shivek.png",
   },
   {
-     id: 100,
+     id: 1020,
      name: "Krrish Gupta",
      designation: "Engineer",
      image: "/images/krrish.png",
@@ -158,7 +165,8 @@ const people = [
 		name: "Dev",
 		designation: "weekend bakchodi host",
 		image: "/images/dev.jpeg",
-	},
+	}
+
 
 
     //   {
